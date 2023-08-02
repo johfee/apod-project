@@ -28,7 +28,7 @@ and learn about the wonders of the cosmos.
 
 ## Live website
 
-You can find a live demo of the website at [link](link)
+You can find a live demo of the website at [https://apod-project.deno.dev/](https://apod-project.deno.dev/)
 
 ## Installation
 
