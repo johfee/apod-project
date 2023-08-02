@@ -11,7 +11,7 @@ export default function Footer({ children }: Props) {
       title: "Documentation",
       children: [
         {
-          name: "View on Github",
+          name: "View on GitHub",
           href: "https://github.com/johfee/apod-project",
         },
         { name: "NASA Open APIs", href: "https://api.nasa.gov/" },
@@ -26,7 +26,7 @@ export default function Footer({ children }: Props) {
     {
       title: "Links",
       children: [
-        { name: "Github", href: "https://github.com/johfee" },
+        { name: "GitHub", href: "https://github.com/johfee" },
         {
           name: "NASA Socials",
           href: "https://www.nasa.gov/connect/social/index.html",
