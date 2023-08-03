@@ -4,6 +4,7 @@ import { Head } from "$fresh/runtime.ts";
 import Footer from "../components/Footer.tsx";
 import Hero from "../components/Hero.tsx";
 import Features from "../components/Features.tsx";
+import Carousel from "../islands/Carousel.tsx";
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
       <Navbar active="/" />
       <Hero />
       <Features />
-
+      <Carousel />
       <Footer children />
     </Layout>
   );
