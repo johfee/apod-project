@@ -1,5 +1,7 @@
 # Astronomic Picture of the Day Project
 
+![Astronomic Picture of the Day](./screenshot.png)
+
 The Astronomic Picture of the Day (APOD) Project is a website that displays a
 new astronomical picture with its description daily. Additionally, the website
 has a section "Random Picture" that randomly picks a date and displays an
