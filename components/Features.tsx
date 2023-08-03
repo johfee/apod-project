@@ -9,13 +9,13 @@ export default function Features() {
       icon: IconMoonStars,
       description:
       "Experience a new breathtaking astronomical picture every day, showcasing the beauty and wonders of the universe.",
-      link: "#",
+      link: "/apod",
     },
     {
       icon: IconHourglass,
       description:
       "Embark on a journey through time by randomly discovering historic and awe-inspiring astronomical images published on that specific day.",
-      link: "#",
+      link: "/random",
     },
     {
       icon: IconInfoSquareRounded,
@@ -39,7 +39,7 @@ export default function Features() {
               (
                 <a class="block" href={item.link}>
                   <p class="text-[#397473] font-semibold cursor-pointer hover:underline inline-flex items-center group">
-                    Read More{" "}
+                    Read more{" "}
                     <IconChevronRight
                       class="inline-block w-5 h-5 transition group-hover:translate-x-0.5"
                       aria-hidden="true"

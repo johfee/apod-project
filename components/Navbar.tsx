@@ -12,7 +12,7 @@ export default function Navbar({ active }: Props) {
   ];
 
   return (
-    <div class="border-b-1 w-full max-w-screen-lg py-6 px-8 flex flex-col md:flex-row items-center justify-center gap-4 mb-6 bg-[#f4ede4] rounded-xl shadow-md">
+    <div class="border-b-1 w-full max-w-screen-lg py-6 px-8 flex flex-col md:flex-row items-center justify-center gap-4 mb-6 bg-[#f3f8ed] rounded-xl shadow-md">
       <div class="flex items-center flex-1">
         <a href="/" class="flex items-center group">
           <IconPlanet

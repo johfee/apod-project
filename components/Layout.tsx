@@ -12,7 +12,7 @@ export default function Layout(props: LayoutProps) {
         <link rel="stylesheet" href="/all.css" />
         <link rel="icon" type="image/x-icon" href="/planet.svg"></link>
       </Head>
-      <div class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8 pb-6 bg-[#f0e7db] shadow-sm rounded-xl py-4">
+      <div class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8 pb-6 bg-[#e6e8d2] shadow-sm py-4">
         {props.children}
       </div>
     </>

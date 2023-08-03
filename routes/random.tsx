@@ -59,7 +59,7 @@ export default function RandomPage({ data }: PageProps<APOD[]>) {
           {` ${data[0].title}`}
         </span>
       </div>
-      <div class="my-4 bg-[#f5f0e8] p-4 rounded-md leading-relaxed">
+      <div class="my-4 bg-[#f3f8ed] p-4 rounded-md leading-relaxed">
         {data[0].explanation}
       </div>
       <hr />
