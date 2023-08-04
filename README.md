@@ -10,7 +10,7 @@ astronomical image that was published on that specific day.
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
+- [Live website](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API](#api)
@@ -26,7 +26,7 @@ the following repository: [APOD API](https://github.com/johfee/apod-api). With
 this project, users can explore stunning astronomical images captured by NASA
 and learn about the wonders of the cosmos.
 
-## Live website
+## Demo
 
 You can find a live demo of the website at [https://apod-project.deno.dev/](https://apod-project.deno.dev/)
 
