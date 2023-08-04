@@ -40,7 +40,6 @@ export default function APODPage({ data }: PageProps<APOD>) {
       <div>
         {data.copyright == null ? <p></p> : (
           <p>
-            <div class="font-bold italic text-2xl">{data.title}</div>
             <div class="flex gap-2 font-normal not-italic pb-2">
               <div>Copyright</div>
               <IconCopyright class="w-4 h-4" />
